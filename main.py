@@ -17,3 +17,6 @@ if __name__ =="__main__" :
     resultado = obtener_resultado(promedio)
     print(f" Promedio: {promedio:.2f} ")
     print(f"Resultado: {resultado} ")
+
+
+#----
